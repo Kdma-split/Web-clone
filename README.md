@@ -7,4 +7,4 @@
 npm install 
 
 ### Run this project
-npm un dev
+npm run dev
